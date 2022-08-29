@@ -6,7 +6,7 @@
 #### Estrutura do projeto
 
     ├── .github                   
-         ├── VR                                       
+         ├── VERX_VR                                       
            ├── Features                               # Diretório onde estão localizados os cenários de teste
              ├── routes                               # Diretório com arquivo de urls 
              ├── step_definitions                     # Diretório com arquivo de definições dos testes  
